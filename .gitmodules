@@ -1,0 +1,6 @@
+[submodule "shisho-backend"]
+	path = shisho-backend
+	url = https://github.com/mitsu-yuki/shisho-backend.git
+[submodule "shisho-frontend"]
+	path = shisho-frontend
+	url = https://github.com/mitsu-yuki/shisho-frontend
